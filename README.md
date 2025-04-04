@@ -3,7 +3,10 @@
 
 POC API exploring features from NestJS, traceability and observability from OpenTelemetry and data back-end using Zipkin.
 
-
+## @todos:
+-[] implement graphQL
+-[] integrate opentelemetry to zepkin
+-[] transform it in a micro-frontend solution
 
 ## Project setup
 
